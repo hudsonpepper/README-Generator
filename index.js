@@ -18,7 +18,7 @@ function init() {
         message: 'What is the name of your project?',
         name: 'projectName'
       },
-      {
+      { // MIT
         type: 'list',
         name: 'license',
         message: 'What license would you like to use?',
